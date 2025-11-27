@@ -1,1 +1,1 @@
-# Budgeting-and-expense-tracker
+# income-and-expense-tracker
